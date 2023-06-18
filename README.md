@@ -1,1 +1,1 @@
-# lide-Bar_Vanilla_JavaScript
+# Slide-Bar_Vanilla_JavaScript
