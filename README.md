@@ -16,11 +16,11 @@ Users should be able to:
 
 - See pictures moving automatically to the left while the title appears coming down from top to bottom.
 
-- To change pictures by using the previous, next and squares buttons.
+- Change pictures by using the previous, next and squares buttons.
 
-- To stop the animation while the mouse cursor is over the buttons or the pictures.
+- Stop the animation while the mouse cursor is over the buttons or the pictures.
 
-- To spect animation runs again automatically after interacting with the page.
+- Spect animation runs again automatically after interacting with the page.
 
 ### Screenshots
 
