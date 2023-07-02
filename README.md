@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [thiagoando.github](https://thiagoando.github.io/news-homepage-main/)
+- Live Site URL: [thiagoando.github](https://thiagoando.github.io/Slide-Bar_Vanilla_JavaScript/)
 
 ## My process
 
